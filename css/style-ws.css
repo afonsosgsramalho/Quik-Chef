@@ -1,0 +1,47 @@
+div#ws-wrapper {
+    text-align: center;
+}
+
+div#ws-wrapper h1 {
+    padding-top: 50px;
+    margin-bottom: 40px;
+    color: black;
+    font-size: 7em;
+    font-weight: bold;
+}
+
+div#ip-wrapper {
+    background-color: rgb(64, 65, 64);
+    padding-bottom: 1px;
+    color: #fff;
+}
+
+div#ip-wrapper .form-group {
+    text-align: left;
+    padding-top: 20px;
+}
+
+div#ip-response {
+    margin-top: 40px;
+    color: #000000;
+    text-align: justify;
+    background-color: rgb(240, 240, 240);
+}
+
+div#rc-wrapper {
+    background-color: rgb(94, 95, 94);
+    padding-bottom: 1px;
+    color: #fff;
+}
+
+div#rc-wrapper .form-group {
+    text-align: left;
+    padding-top: 20px;
+}
+
+div#rc-response {
+    text-align: justify;
+    padding: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
